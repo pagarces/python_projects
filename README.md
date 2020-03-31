@@ -1,3 +1,2 @@
 # paython_projects
-different python projects
-we are going to show a lot of content here
+different python projectsI am editing the README file. Adding some details about the project description.
